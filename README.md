@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frnki42
 - 👀 I’m interested in learning new technical skills and I'm trying to master Cyber Security.
-- 🌱 I’m currently learning the basics of computer science at 42vienna.
+- 🌱 I’m currently learning the basics of computer science at 42vienna. :globe_with_meridians: 42vienna.com/
 - 💞️ I’m looking to collaborate on anything I'm interested in.
 - 📫 How to reach me at Discord: .frnki
 - :alien: I'm absolutely new to coding, so give me some time.
