@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the basics of computer science at europe's best coding school, 42.
 - :globe_with_meridians: www.42.fr or better www.42vienna.com for the campus in vienna.
 - 💞️ I’m looking to collaborate on anything I'm interested in.
-- 📫 How to reach me at Discord: .frnki
+- 📫 How to reach me at Discord:    .frnki
 - :alien: I'm absolutely new to coding, so give me some time.
 
 <!---
