@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m @frnki42!
+# :shipit: Hey there, I’m @frnki42!
 
 *(Fun fact: I wanted to be `.frnki`, but GitHub said no to dots, and plain `frnki` was already taken. So here we are!)*
 
@@ -11,13 +11,13 @@
 ### 🌐 Where in the World:
 - [42.fr](http://www.42.fr) for the Paris vibe, or if you’re more into schnitzel and Strudel, check out [42 Vienna](http://www.42vienna.com).
 
-### 💞️ Collab-o-Meter:
+### :briefcase: Collab-o-Meter:
 - Open to collaborating on anything that sparks joy, curiosity, or just makes me go "Whoa, cool!" 🔥
 
-### 📫 Paging .frnki:
+### :incoming_envelope: Paging .frnki:
 - Slide into my DMs on Discord: `.frnki`
 
-### 👽 Warning: Newbie Alert!
+### :rotating_light: Warning: Newbie Alert!
 - Just started coding, so if I break something… well, let’s just call it *learning by doing*. 🚧
 
 
